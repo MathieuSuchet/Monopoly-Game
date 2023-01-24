@@ -2,6 +2,9 @@
  
 This repo is a recreation of the world-known game "Monopoly" on PC using Unity. I personally enjoy playing this game and therefore decided to make my own with unique ideas
 
+If you want to contribute to the game creation, you can fill this form which tackles game ideas or just feedbacks on the classic monopoly game, it is anonymous : 
+https://docs.google.com/forms/d/e/1FAIpQLSdkAoGbtukcT7r-xQwgHifRqsMC7DZtTcy2XQI0ouQ27kI5bw/viewform?usp=sf_link
+
 ## Actual advancements of the project
 
 ### Basic monopoly features :
